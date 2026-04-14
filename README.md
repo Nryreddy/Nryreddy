@@ -1,25 +1,30 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nithesh%20Reddy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nithesh%20Reddy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20and%20Data%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+
+<h3 align="center"> AI Engineer | Openclaw🦞 | Agentic AI | Cloud AI Systems</h3>
+
+<p align="center">
+📍 Australia
+</p>
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Nryreddy">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dnbDljYWU0bTFieDhtNnJidjd0bWM2bWZ6dGxmcGowdnNnZjgzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" alt="Nryreddy's profile views" />
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🎓 Master of Artificial Intelligence @ Monash University
 - ⚙️ Focus: Agentic AI, Agentic systems, LLM's, OpenClaw and production ML
 - ☁️ Experience with AWS, Azure, scalable APIs, and event-driven architectures
-- 🔍 Passionate about turning AI prototypes into production-ready systems
 
 
 ## 🧠 My Focus Areas
-- 🤖 LLM-powered agents (LangGraph, CrewAI, n8n)
-- 🧠 Stateful AI systems with memory (Mem0, structured context)
-- 🎯 Computer Vision pipelines (YOLO, ONNX, real-time inference)
-- ☁️ Cloud-native ML systems (AWS Lambda, S3, DynamoDB, Glue)
-- 🔗 End-to-end AI APIs (FastAPI, async systems, production deployment)
+- 🤖 LLM-powered agents (Openclaw, LangGraph, CrewAI, n8n)
+- 🧠 Stateful AI systems with memory (Mem0, Ontology, Knowledge Graphs)
+- 🎯 Computer Vision pipelines (YOLO, OpenCV, ONNX, real-time inference)
+- ☁️ Cloud-native ML systems (AWS Bedrock, Sagemaker, Azure Foundry)
+- 🔗 End-to-end AI APIs (FastAPI, Postman, async systems)
 
 
 ## 📊 GitHub Stats & Trophies

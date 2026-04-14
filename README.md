@@ -26,6 +26,35 @@
 - ☁️ Cloud-native ML systems (AWS Bedrock, Sagemaker, Azure Foundry)
 - 🔗 End-to-end AI APIs (FastAPI, Postman, async systems)
 
+## 🏅 Certifications
+
+<p align="center">
+
+<a href="https://www.credly.com/badges/e245dc95-41af-4758-9cf1-da13fab3cf12">
+  <img height="40" src="https://img.shields.io/badge/AWS%20Machine%20Learning%20Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<a href="https://graphacademy.neo4j.com/c/94221b5b-af60-42b7-a9c5-20f93b4159a9/">
+  <img height="40" src="https://img.shields.io/badge/Neo4j%20Certified_Professional-018BFF?style=for-the-badge&logo=neo4j&logoColor=white"/>
+</a>
+
+<a href="https://verify.skilljar.com/c/fr2h5ddmhgva">
+  <img height="40" src="https://img.shields.io/badge/Palantir%20Foundry%20Aware%20Professional-101820?style=for-the-badge&logo=palantir&logoColor=white"/>
+</a>
+
+<a href="https://www.datacamp.com/certificate/DE0015998526067">
+  <img height="40" src="https://img.shields.io/badge/Data%20Engineer-03EF62?style=for-the-badge&logo=datacamp&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/certificates/d46733b987b2">
+  <img height="40" src="https://img.shields.io/badge/SQL%20(Advanced)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://learn.deeplearning.ai/accomplishments/a84f3966-ecb4-4572-b8f4-cd1c1095f7d8?usp=sharing">
+  <img height="40" src="https://img.shields.io/badge/Llama%203.2%20Multimodal-FF6F00?style=for-the-badge&logo=meta&logoColor=white"/>
+</a>
+
+</p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">

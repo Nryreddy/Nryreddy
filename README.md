@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nithesh%20Reddy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Nryreddy">
-    <img src="https://komarev.com/ghpvc/?username=Nryreddy&label=Profile%20views&color=00FFFF&style=flat-square" alt="Nryreddy's profile views" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dnbDljYWU0bTFieDhtNnJidjd0bWM2bWZ6dGxmcGowdnNnZjgzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" alt="Nryreddy's profile views" />
   </a>
 </p>
 

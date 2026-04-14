@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nithesh%20Reddy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nithesh%20Reddy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Nryreddy">
     <img src="https://komarev.com/ghpvc/?username=Nryreddy&label=Profile%20views&color=00FFFF&style=flat-square" alt="Nryreddy's profile views" />
